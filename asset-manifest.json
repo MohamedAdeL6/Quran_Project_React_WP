@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Quran_Project_React_WP/static/css/main.c3fed232.css",
+    "main.js": "/Quran_Project_React_WP/static/js/main.d8a19514.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Quran_Project_React_WP/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slick.svg": "/Quran_Project_React_WP/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Quran_Project_React_WP/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Quran_Project_React_WP/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Quran_Project_React_WP/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Quran_Project_React_WP/index.html",
+    "main.c3fed232.css.map": "/Quran_Project_React_WP/static/css/main.c3fed232.css.map",
+    "main.d8a19514.js.map": "/Quran_Project_React_WP/static/js/main.d8a19514.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Quran_Project_React_WP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fed232.css",
+    "static/js/main.d8a19514.js"
+  ]
+}
